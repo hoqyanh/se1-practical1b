@@ -1,0 +1,6 @@
+.vscode/
+secrets.txt
+*.class
+.cpcache/
+target/
+*.log
